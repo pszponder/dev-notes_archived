@@ -1,0 +1,11 @@
+{
+  "cssTheme": "Minimal",
+  "baseFontSize": 18,
+  "translucency": false,
+  "interfaceFontFamily": "",
+  "monospaceFontFamily": "Cascadia Code PL",
+  "accentColor": "",
+  "theme": "obsidian",
+  "nativeMenus": false,
+  "showViewHeader": true
+}

@@ -1,0 +1,207 @@
+{
+  "recentFiles": [
+    {
+      "basename": "python_error-handling",
+      "path": "python/notes/python_error-handling.md"
+    },
+    {
+      "basename": "python_comments",
+      "path": "python/notes/python_comments.md"
+    },
+    {
+      "basename": "python_debugging",
+      "path": "02-Software-Development/python/python_debugging.md"
+    },
+    {
+      "basename": "python_data-types-tuples",
+      "path": "02-Software-Development/python/python_data-types-tuples.md"
+    },
+    {
+      "basename": "python_functions-built-in",
+      "path": "02-Software-Development/python/python_functions-built-in.md"
+    },
+    {
+      "basename": "python_data-types-strings",
+      "path": "02-Software-Development/python/python_data-types-strings.md"
+    },
+    {
+      "basename": "python_data-types-sets",
+      "path": "02-Software-Development/python/python_data-types-sets.md"
+    },
+    {
+      "basename": "python_data-types-dictionaries",
+      "path": "02-Software-Development/python/python_data-types-dictionaries.md"
+    },
+    {
+      "basename": "python_data-types-lists",
+      "path": "02-Software-Development/python/python_data-types-lists.md"
+    },
+    {
+      "basename": "python_data-types",
+      "path": "02-Software-Development/python/python_data-types.md"
+    },
+    {
+      "basename": "python_control-flow",
+      "path": "02-Software-Development/python/python_control-flow.md"
+    },
+    {
+      "basename": "python_comprehensions",
+      "path": "02-Software-Development/python/python_comprehensions.md"
+    },
+    {
+      "basename": "python_comments",
+      "path": "02-Software-Development/python/python_comments.md"
+    },
+    {
+      "basename": "python_cli-arguments",
+      "path": "02-Software-Development/python/python_cli-arguments.md"
+    },
+    {
+      "basename": "python_cheat-sheet",
+      "path": "02-Software-Development/python/python_cheat-sheet.md"
+    },
+    {
+      "basename": "python_classes",
+      "path": "02-Software-Development/python/python_classes.md"
+    },
+    {
+      "basename": "go_project-structure",
+      "path": "02-Software-Development/go/go_project-structure.md"
+    },
+    {
+      "basename": "go_cli",
+      "path": "02-Software-Development/go/go_cli.md"
+    },
+    {
+      "basename": "go_compile-and-execute",
+      "path": "02-Software-Development/go/go_compile-and-execute.md"
+    },
+    {
+      "basename": "go_pointers",
+      "path": "02-Software-Development/go/go_pointers.md"
+    },
+    {
+      "basename": "go_project-setup",
+      "path": "02-Software-Development/go/go_project-setup.md"
+    },
+    {
+      "basename": "go_packages",
+      "path": "02-Software-Development/go/go_packages.md"
+    },
+    {
+      "basename": "go_modules",
+      "path": "02-Software-Development/go/go_modules.md"
+    },
+    {
+      "basename": "python_modules-&-packages",
+      "path": "02-Software-Development/python/python_modules-&-packages.md"
+    },
+    {
+      "basename": "python_virtual-environments",
+      "path": "02-Software-Development/python/python_virtual-environments.md"
+    },
+    {
+      "basename": "python_virtual-environments_pipenv",
+      "path": "02-Software-Development/python/python_virtual-environments_pipenv.md"
+    },
+    {
+      "basename": "python_oop",
+      "path": "02-Software-Development/python/python_oop.md"
+    },
+    {
+      "basename": "javascript_jsdoc",
+      "path": "02-Software-Development/javascript/javascript_jsdoc.md"
+    },
+    {
+      "basename": "python_type-annotations",
+      "path": "02-Software-Development/python/python_type-annotations.md"
+    },
+    {
+      "basename": "testing_spies-js",
+      "path": "02-Software-Development/testing/testing_spies-js.md"
+    },
+    {
+      "basename": "testing_spies",
+      "path": "02-Software-Development/testing/testing_spies.md"
+    },
+    {
+      "basename": "testing_best-practices",
+      "path": "02-Software-Development/testing/testing_best-practices.md"
+    },
+    {
+      "basename": "testing_tests-unit-js-assertions",
+      "path": "02-Software-Development/testing/testing_tests-unit-js-assertions.md"
+    },
+    {
+      "basename": "testing_tests-unit-js",
+      "path": "02-Software-Development/testing/testing_tests-unit-js.md"
+    },
+    {
+      "basename": "testing_tests-unit-js-asynchronous-code",
+      "path": "02-Software-Development/testing/testing_tests-unit-js-asynchronous-code.md"
+    },
+    {
+      "basename": "testing_tests-unit-dom",
+      "path": "02-Software-Development/testing/testing_tests-unit-dom.md"
+    },
+    {
+      "basename": "testing_tests-integration",
+      "path": "02-Software-Development/testing/testing_tests-integration.md"
+    },
+    {
+      "basename": "testing_side-effects",
+      "path": "02-Software-Development/testing/testing_side-effects.md"
+    },
+    {
+      "basename": "testing_introduction",
+      "path": "02-Software-Development/testing/testing_introduction.md"
+    },
+    {
+      "basename": "testing_concurrent-tests-js",
+      "path": "02-Software-Development/testing/testing_concurrent-tests-js.md"
+    },
+    {
+      "basename": "redis_basics",
+      "path": "02-Software-Development/redis/redis_basics.md"
+    },
+    {
+      "basename": "database_types-models",
+      "path": "02-Software-Development/databases/database_types-models.md"
+    },
+    {
+      "basename": "_redis",
+      "path": "02-Software-Development/redis/_redis.md"
+    },
+    {
+      "basename": "Pasted image 20221203170242",
+      "path": "02-Software-Development/redis/resources/Pasted image 20221203170242.png"
+    },
+    {
+      "basename": "redis_memcached-vs-redis",
+      "path": "02-Software-Development/redis/resources/redis_memcached-vs-redis.png"
+    },
+    {
+      "basename": "redis-explained",
+      "path": "02-Software-Development/redis/resources/redis-explained.png"
+    },
+    {
+      "basename": "Pasted image 20221203170317",
+      "path": "02-Software-Development/redis/resources/Pasted image 20221203170317.png"
+    },
+    {
+      "basename": "data-eng_what-is-it",
+      "path": "02-Software-Development/data-engineering/data-eng_what-is-it.md"
+    },
+    {
+      "basename": "data-eng_what-is-data",
+      "path": "02-Software-Development/data-engineering/data-eng_what-is-data.md"
+    },
+    {
+      "basename": "_data-eng",
+      "path": "02-Software-Development/data-engineering/_data-eng.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null,
+  "openType": "tab"
+}

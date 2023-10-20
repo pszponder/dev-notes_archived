@@ -1,0 +1,17 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "showLineNumber": true,
+  "spellcheck": true,
+  "tabSize": 4,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "readableLineLength": true,
+  "attachmentFolderPath": "./",
+  "newFileLocation": "folder",
+  "promptDelete": false,
+  "newFileFolderPath": "01-Inbox",
+  "vimMode": true,
+  "useTab": false,
+  "showInlineTitle": true
+}

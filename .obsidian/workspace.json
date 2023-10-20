@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "e8cb51bac57a666e",
+    "type": "split",
+    "children": [
+      {
+        "id": "3382cdfd47c828ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42eb8e377163b7a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "python/notes/python_error-handling.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e4e002d40f8cd4d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5043819fa9e49ed",
+        "type": "tabs",
+        "dimension": 81.48148148148148,
+        "children": [
+          {
+            "id": "f2ad1e1c131ee591",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6b4b4fc9182ec837",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "5108f2",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5dd292a0bf547c06",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "c5543269b647ebfc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "c6b0606192d77322",
+        "type": "tabs",
+        "dimension": 18.51851851851852,
+        "children": [
+          {
+            "id": "48675fd2786d4a09",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 304.51103591918945
+  },
+  "right": {
+    "id": "1896cdb04f76307e",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e811698b46dae81",
+        "type": "tabs",
+        "dimension": 68.89580093312597,
+        "children": [
+          {
+            "id": "ffd045a0a51242b1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "python/notes/python_error-handling.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0a339ebbbef3d8ba",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b8806031178a11ed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "python/notes/python_error-handling.md"
+              }
+            }
+          },
+          {
+            "id": "55bc848928b6d4c5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "424e05ffa6151add",
+        "type": "tabs",
+        "dimension": 31.104199066874024,
+        "children": [
+          {
+            "id": "b5edaca7e39596e9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 245.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "42eb8e377163b7a6",
+  "lastOpenFiles": [
+    "python/notes/python_comments.md",
+    "02-Software-Development/python/python_data-types-tuples.md",
+    "02-Software-Development/python/python_functions-built-in.md",
+    "02-Software-Development/python/python_data-types-strings.md",
+    "02-Software-Development/python/python_data-types-sets.md",
+    "02-Software-Development/python/python_data-types-dictionaries.md",
+    "02-Software-Development/python/python_data-types-lists.md",
+    "02-Software-Development/python/python_data-types.md",
+    "02-Software-Development/python/python_control-flow.md",
+    "02-Software-Development/python/python_comprehensions.md",
+    "02-Software-Development/python/python_comments.md",
+    "02-Software-Development/python/python_cli-arguments.md",
+    "02-Software-Development/python/python_cheat-sheet.md",
+    "02-Software-Development/python/python_classes.md",
+    "02-Software-Development/go/go_project-structure.md",
+    "02-Software-Development/go/go_cli.md",
+    "02-Software-Development/go/go_compile-and-execute.md",
+    "02-Software-Development/go/go_pointers.md",
+    "02-Software-Development/go/go_project-setup.md",
+    "02-Software-Development/go/go_packages.md",
+    "02-Software-Development/go/go_modules.md",
+    "02-Software-Development/python/python_virtual-environments.md",
+    "02-Software-Development/python/python_virtual-environments_pipenv.md",
+    "02-Software-Development/python/python_modules-&-packages.md",
+    "02-Software-Development/python/python_oop.md",
+    "02-Software-Development/javascript/javascript_jsdoc.md",
+    "02-Software-Development/redis/resources/Pasted image 20221203170242.png",
+    "02-Software-Development/redis/resources/redis_memcached-vs-redis.png",
+    "02-Software-Development/redis/resources",
+    "02-Software-Development/redis/resources/redis-explained.png",
+    "02-Software-Development/redis/resources/Pasted image 20221203170317.png",
+    "02-Software-Development/Untitled",
+    "02-Software-Development/data-engineering",
+    "02-Software-Development/databases/resources/Pasted image 20230519205505.png",
+    "02-Software-Development/databases/resources/anomalies-example-insert.png",
+    "02-Software-Development/databases/resources/anomalies-example-update.png",
+    "02-Software-Development/databases/resources/anomalies-example-delete.png",
+    "02-Software-Development/databases/resources/many-to-many.png",
+    "02-Software-Development/databases/resources/Pasted image 20230514213008.png",
+    "02-Software-Development/python/resources",
+    "02-Software-Development/mongodb",
+    "02-Software-Development/api"
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "e8cb51bac57a666e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4b15c039529eab6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "02-Software-Development/docker/docker_intro.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e4e002d40f8cd4d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd07b93e7a1dc460",
+        "type": "tabs",
+        "dimension": 79.73657548125634,
+        "children": [
+          {
+            "id": "f2ad1e1c131ee591",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6b4b4fc9182ec837",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "vim",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "c6b0606192d77322",
+        "type": "tabs",
+        "dimension": 20.263424518743665,
+        "children": [
+          {
+            "id": "48675fd2786d4a09",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 435.5
+  },
+  "right": {
+    "id": "1896cdb04f76307e",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e811698b46dae81",
+        "type": "tabs",
+        "dimension": 58.662613981762924,
+        "children": [
+          {
+            "id": "ffd045a0a51242b1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02-Software-Development/docker/docker_intro.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0a339ebbbef3d8ba",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b8806031178a11ed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02-Software-Development/docker/docker_intro.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "424e05ffa6151add",
+        "type": "tabs",
+        "dimension": 41.33738601823708,
+        "children": [
+          {
+            "id": "b5edaca7e39596e9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c4b15c039529eab6",
+  "lastOpenFiles": [
+    "02-Software-Development/docker/docker_containers.md",
+    "02-Software-Development/docker/docker_images.md",
+    "02-Software-Development/docker/docker_intro.md",
+    "02-Software-Development/docker/docker_setup.md",
+    "02-Software-Development/docker/docker_shortcuts.md",
+    "02-Software-Development/docker/docker_ports.md",
+    "02-Software-Development/_docker.md",
+    "02-Software-Development/docker/_docker.md",
+    "02-Software-Development/sql/_sql.md",
+    "02-Software-Development/typescript/typescript_react.md"
+  ]
+}
