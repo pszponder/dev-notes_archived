@@ -10,8 +10,9 @@
   "attachmentFolderPath": "./",
   "newFileLocation": "folder",
   "promptDelete": false,
-  "newFileFolderPath": "01-Inbox",
+  "newFileFolderPath": "",
   "vimMode": true,
   "useTab": false,
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "useMarkdownLinks": true
 }

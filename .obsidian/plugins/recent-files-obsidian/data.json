@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "python_files_io",
+      "path": "python/notes/python_files_io.md"
+    },
+    {
       "basename": "python_error-handling",
       "path": "python/notes/python_error-handling.md"
     },
@@ -191,14 +195,6 @@
     {
       "basename": "data-eng_what-is-it",
       "path": "02-Software-Development/data-engineering/data-eng_what-is-it.md"
-    },
-    {
-      "basename": "data-eng_what-is-data",
-      "path": "02-Software-Development/data-engineering/data-eng_what-is-data.md"
-    },
-    {
-      "basename": "_data-eng",
-      "path": "02-Software-Development/data-engineering/_data-eng.md"
     }
   ],
   "omittedPaths": [],

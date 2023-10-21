@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/notes/python_error-handling.md",
+                "file": "python/notes/python_files_io.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python/notes/python_error-handling.md",
+                "file": "python/notes/python_files_io.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python/notes/python_error-handling.md"
+                "file": "python/notes/python_files_io.md"
               }
             }
           },
@@ -185,8 +185,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "48675fd2786d4a09",
+  "active": "42eb8e377163b7a6",
   "lastOpenFiles": [
+    "python/notes/python_error-handling.md",
+    "python/notes/python_files_io.md",
+    "python_files_io.md",
     "python/notes/python_comments.md",
     "02-Software-Development/python/python_data-types-tuples.md",
     "02-Software-Development/python/python_functions-built-in.md",
@@ -210,9 +213,6 @@
     "02-Software-Development/go/go_modules.md",
     "02-Software-Development/python/python_virtual-environments.md",
     "02-Software-Development/python/python_virtual-environments_pipenv.md",
-    "02-Software-Development/python/python_modules-&-packages.md",
-    "02-Software-Development/python/python_oop.md",
-    "02-Software-Development/javascript/javascript_jsdoc.md",
     "02-Software-Development/redis/resources/Pasted image 20221203170242.png",
     "02-Software-Development/redis/resources/redis_memcached-vs-redis.png",
     "02-Software-Development/redis/resources",
